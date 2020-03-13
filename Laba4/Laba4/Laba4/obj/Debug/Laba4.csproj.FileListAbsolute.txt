@@ -1,0 +1,10 @@
+E:\2k2s\OOP\Laba4\Laba4\Laba4\bin\Debug\Laba4.exe.config
+E:\2k2s\OOP\Laba4\Laba4\Laba4\bin\Debug\Laba4.exe
+E:\2k2s\OOP\Laba4\Laba4\Laba4\bin\Debug\Laba4.pdb
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.exe
+E:\2k2s\OOP\Laba4\Laba4\Laba4\obj\Debug\Laba4.pdb
